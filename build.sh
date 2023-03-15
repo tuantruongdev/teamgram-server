@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-
 PWD=`pwd`
 TEAMGRAMAPP=${PWD}"/app"
 INSTALL=${PWD}"/teamgramd"
